@@ -34,7 +34,7 @@
 
       <section id="main_content">
         <h1>
-<a name="tiemaocsdngithubio" class="anchor" href="#tiemaocsdngithubio"><span class="octicon octicon-link"></span></a>Ahenry.github.io</h1>
+<a name="albatronhenrygithubio" class="anchor" href="#tiemaocsdngithubio"><span class="octicon octicon-link"></span></a>Ahenry.github.io</h1>
 
 
 <p>创建GitHub技术博客全攻略,地址: <a href="http://blog.csdn.net/renfufei/article/details/37725057">创建GitHub技术博客全攻略</a></p>
@@ -46,7 +46,7 @@
       <footer>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-            <p>Projects by <a href="https://github.com/Albatronhenry">tiemaocsdn</a> can be found on <a href="https://github.com/Albatronhenry">GitHub</a></p>
+            <p>Projects by <a href="https://github.com/Albatronhenry">Albatronhenry</a> can be found on <a href="https://github.com/Albatronhenry">GitHub</a></p>
           </span>
           <span class="left-tail"></span>
           <span class="right-tail"></span>
