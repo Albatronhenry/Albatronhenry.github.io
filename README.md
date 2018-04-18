@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=640" />
 
-You can use the [editor on GitHub](https://github.com/Albatronhenry/Albatronhenry.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+    <link rel="stylesheet" href="stylesheets/core.css" media="screen"/>
+    <link rel="stylesheet" href="stylesheets/mobile.css" media="handheld, only screen and (max-device-width:640px)"/>
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <script type="text/javascript" src="javascripts/modernizr.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="javascripts/headsmart.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        $('#main_content').headsmart()
+      })
+    </script>
+    <title>铁锚CSDN博客 - GitHub.io by tiemaocsdn</title>
+  </head>
 
-### Markdown
+  <body>
+    <a id="forkme_banner" href="https://github.com/tiemaocsdn">View on GitHub</a>
+    <div class="shell">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+      <header>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <h1>铁锚CSDN博客 - GitHub.io</h1>
+            <h2>铁锚CSDN博客</h2>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+      </header>
 
-```markdown
-Syntax highlighted code block
+      <div id="no-downloads">
+        <span class="inner">
+        </span>
+      </div>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+      <span class="banner-fix"></span>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+      <section id="main_content">
+        <h1>
+<a name="tiemaocsdngithubio" class="anchor" href="#tiemaocsdngithubio"><span class="octicon octicon-link"></span></a>tiemaocsdn.github.io</h1>
 
-[Link](url) and ![Image](src)
-```
+<p>铁锚CSDN博客,地址: <a href="http://blog.csdn.net/renfufei">http://blog.csdn.net/renfufei</a></p>
+<p>创建GitHub技术博客全攻略,地址: <a href="http://blog.csdn.net/renfufei/article/details/37725057">创建GitHub技术博客全攻略</a></p>
+<p>要使网页可用，你需要验证邮箱(注册后应该会自动发送邮件给你);并且随后编辑本页面,提交一些内容</p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+        <p>Generated with <a href="http://pages.github.com">GitHub Pages</a> using Merlot</p>
+      </section>
 
-### Jekyll Themes
+      <footer>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <p>Projects by <a href="https://github.com/tiemaocsdn">tiemaocsdn</a> can be found on <a href="https://github.com/tiemaocsdn">GitHub</a></p>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+<p>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000461034'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/z_stat.php%3Fid%3D1000461034%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
+</p>
+        <span class="octocat"></span>
+      </footer>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Albatronhenry/Albatronhenry.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    </div>
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    
+  </body>
+</html>
