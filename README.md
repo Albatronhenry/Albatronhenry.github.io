@@ -4,30 +4,19 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="viewport" content="width=640" />
 
-    <link rel="stylesheet" href="stylesheets/core.css" media="screen"/>
-    <link rel="stylesheet" href="stylesheets/mobile.css" media="handheld, only screen and (max-device-width:640px)"/>
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css"/>
 
-    <script type="text/javascript" src="javascripts/modernizr.js"></script>
-    <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
-    <script type="text/javascript" src="javascripts/headsmart.min.js"></script>
-    <script type="text/javascript">
-      $(document).ready(function () {
-        $('#main_content').headsmart()
-      })
-    </script>
-    <title>铁锚CSDN博客 - GitHub.io by tiemaocsdn</title>
+    <title>青云博客 - GitHub.io by tiemaocsdn</title>
   </head>
 
   <body>
-    <a id="forkme_banner" href="https://github.com/tiemaocsdn">View on GitHub</a>
+    <a id="forkme_banner" href="https://github.com/Albatronhenry">View on GitHub</a>
     <div class="shell">
 
       <header>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-            <h1>铁锚CSDN博客 - GitHub.io</h1>
-            <h2>铁锚CSDN博客</h2>
+            <h1>青云博客 - GitHub.io</h1>
+            <h2>青云博客</h2>
           </span>
           <span class="left-tail"></span>
           <span class="right-tail"></span>
@@ -47,7 +36,7 @@
         <h1>
 <a name="tiemaocsdngithubio" class="anchor" href="#tiemaocsdngithubio"><span class="octicon octicon-link"></span></a>tiemaocsdn.github.io</h1>
 
-<p>铁锚CSDN博客,地址: <a href="http://blog.csdn.net/renfufei">http://blog.csdn.net/renfufei</a></p>
+
 <p>创建GitHub技术博客全攻略,地址: <a href="http://blog.csdn.net/renfufei/article/details/37725057">创建GitHub技术博客全攻略</a></p>
 <p>要使网页可用，你需要验证邮箱(注册后应该会自动发送邮件给你);并且随后编辑本页面,提交一些内容</p>
 
@@ -57,7 +46,7 @@
       <footer>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-            <p>Projects by <a href="https://github.com/tiemaocsdn">tiemaocsdn</a> can be found on <a href="https://github.com/tiemaocsdn">GitHub</a></p>
+            <p>Projects by <a href="https://github.com/Albatronhenry">tiemaocsdn</a> can be found on <a href="https://github.com/Albatronhenry">GitHub</a></p>
           </span>
           <span class="left-tail"></span>
           <span class="right-tail"></span>
